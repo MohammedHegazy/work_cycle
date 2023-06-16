@@ -1,4 +1,4 @@
-# my-app
+# work_cycle
 
 ## Project setup
 ```
