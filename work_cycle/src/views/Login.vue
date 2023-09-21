@@ -108,7 +108,8 @@ export default {
         })
         .catch(function (error) {
           router.push("/login");
-          window.alert(error.response.data.message);
+          alert(error.response.data);
+          console.log(error);
         });
     },
   },
